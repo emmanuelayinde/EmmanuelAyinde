@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Hey, My name is Emmanuel Ayinde, you can call me Engr SoluTion <br>
+✨ Hey, My name is <strong>Emmanuel Ayinde</strong>, you can call me <strong> <i>Engr SoluTion </i></strong> <br>
 🔭 I’m currently working on building SoluTion Tech Hub<br>👯 I’m looking to collaborate on any backend and mobile app project<br>🤝 I’m looking for help understanding Software Designs Patterns and DSA<br>🌱 I’m currently learning Golang & DSA<br>💬 Ask me about Backend, Mobile and Frontend<br>⚡ Fun fact
 
 
