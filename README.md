@@ -28,6 +28,7 @@ Below are the list of technologies I use foru day to day project.
 
 <!-- START OF PROJECTS SESSION -->
 
+<!--
 ## 🏆 My Projects
 
 <details>
@@ -41,10 +42,12 @@ Below are the list of technologies I use foru day to day project.
 | **NeoChat Application** | `Neochat Application` is a fullstack chat application with both individual and group chat, voice and video call and user story features. It implement E2E Encryption for both chat and video/voice call | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) | [Complete Source Code](https://github.com/emmanuelayinde/neochat-application) |
 
 </details>
+-->
 <!-- END OF PROJECTS SESSION -->
 
 <!-- START OF BLOGS SESSION -->
 
+<!--
 ## 🏆 My Blogs
 
 <details>
@@ -58,6 +61,8 @@ I write blog on things I have learnt in SWE. You can check them out in the table
 | **API Achictectural Styles** | `Dev Community`<br> `Dev Community` <br> `Medium` | [API Achictectural Styles I ](https://dev.to/emmanuelayinde/api) <br>[API Achictectural Styles - Part II](https://dev.to/emmanuelayinde/api) <br> [API Achictectural Styles - Part 1](https://dev.to/emmanuelayinde/api) |
 
 </details>
+
+-->
 <!-- END OF BLOGS SESSION -->
 
 # 📊 GitHub Stats:
